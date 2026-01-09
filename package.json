@@ -1,0 +1,12 @@
+{
+  "name": "@controleonline/react-native-infinitepay-payment",
+  "version": "1.0.1",
+  "main": "index.js",
+  "files": [
+    "android",
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.70.0"
+  }
+}
